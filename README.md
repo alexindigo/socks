@@ -1,0 +1,2 @@
+# socks
+Socks for Deno
